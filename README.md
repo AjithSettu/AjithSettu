@@ -35,7 +35,7 @@
 
 ### 3. GoodReads Book Review
 - **Description:** The Goodreads Book Review Project is about the analysis of books in goodreads website based on the reviews, books, author title and the genre.
-- **Technologies:** SQL, EXCEL
+- **Technologies:** SQL, Excel
 - **Link** [Goodreads_Book_Review](https://github.com/AjithSettu/Goodreads_Book_Review/blob/main/Business_Insights)
 
 
